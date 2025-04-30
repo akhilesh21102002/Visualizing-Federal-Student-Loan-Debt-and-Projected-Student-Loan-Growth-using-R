@@ -1,1 +1,1 @@
-Utilized R to visualize federal student loan debt of the United States throughout time and used the forecast to estimate and project the growth of student debt for a 10-year forward looking period.
+Utilized R to visualize federal student loan debt of the United States throughout time and used the forecast function to estimate and project the growth of student debt for a 10-year forward looking period.
